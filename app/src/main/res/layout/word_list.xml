@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/list"
+
+
+
+    android:orientation="vertical"
+    android:drawSelectorOnTop="true"
+    ><!--Line 12 will show effect of click in all catagory or in any button-->
+  <!--android:numColumns="2"--><!--This is only used for grid View-->
+  <!--  android:id="@+id/rootView"-->
+</ListView>
